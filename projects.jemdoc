@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Projects
+
+== Sparse Dictionary Learning
+Recent work in compressed sensing has shown that learning sparse codebooks on 
+compressed samples (employing a random basis project) results in a sparse dictionary 
+that is equivalent to the sparse dictionary learnt on the original space 
+(under permutations).
+My work in this project is to show the efficacy of ACS as a tool for operating on 
+large vision datasets where the dimensionality of the system limits inference 
+and learning directly.
+
+== Language Recognition using Random Indexing
+Random Indexing is a simple implementation of Random Projections with a wide
+range of applications. In the same way, vector space models are very commonly used for
+basic text analysis. My work in this project has been to  apply this method to 
+identifying the language of text samples. Additional work is being done to apply the 
+same method to speech samples.
+
+== Time Varying Sparse Coding of EEG Data
+Seizure forecasting systems help predict the onset of seizures in epilepsy patients. Based
+on various successful work using sparse coding models for sensory classification problems,
+Matt Boggess, Aria Wang, and I have been working on a system that uses time-varying 
+sparse coding to extract a set of time invariant features from EEG data, to be used for 
+a novel seizure forecasting method. 
