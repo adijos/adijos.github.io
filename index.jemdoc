@@ -1,9 +1,15 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Aditya Joshi
 
-I am a 4th year Applied Math student at UC Berkeley.
+I am a 4th year Applied Math student at UC Berkeley. I am also an undergraduate
+researcher at the [http://redwood.berkeley.edu Redwood Center for Theoretical Neuroscience]. My advisor is 
+[http://redwood.berkeley.edu/wiki/Fritz_Sommer Fritz Sommer].
 
 == Research Interests
 - Fourier and Harmonic Analysis
 - Machine learning, primarily regarding sparse coding models
-- Models of Neural Computation
+- Models of neural computation
+
+== Contact
+Email: adijos at berkeley dot edu
+Address: Redwood Center for Theoretical Neuroscience, Fifth Floor Evans, UC Berkeley
