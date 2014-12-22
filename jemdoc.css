@@ -3,7 +3,7 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: orange;
+    background: white;
 }
 
 body {
@@ -14,8 +14,8 @@ body {
 }
 
 #layout-menu {
-	background: #f6f6f6;
-	border: 1px solid #dddddd;
+	background: #fd8b16;
+	border: 1px solid blue;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
